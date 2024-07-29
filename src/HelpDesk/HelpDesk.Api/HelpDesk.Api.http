@@ -1,0 +1,4 @@
+GET http://localhost:1337/api/software
+Accept: application/json
+
+###
